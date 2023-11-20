@@ -1,0 +1,9 @@
+.header{
+    background-image: url('/public/media/header.jpeg');
+}
+
+.backdrop-blur{
+    background-color: rgba(131, 125, 125, 0.632);
+    
+
+}
